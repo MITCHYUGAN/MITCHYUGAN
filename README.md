@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MITCHYUGAN
-- 👀 I’m interested in ... Front-end development and Blockchain development
+- 👋 Hi, I’m @MITCHYUGAN, I create responsive web apps and websites,
  
+Languages and Tech stack
 ✔️Figma to HTML / Sketch to HTML / PSD to HTML / etc.
 ✔️Responsiveness
 ✔️Landing Pages
