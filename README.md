@@ -1,8 +1,20 @@
 - 👋 Hi, I’m @MITCHYUGAN
 - 👀 I’m interested in ... Front-end development and Blockchain development
-- 🌱 I’m currently learning ... React js and type-script
-- 💞️ I’m looking to collaborate on ... a front-end project
-- 📫 How to reach me ... Twitter(Mitchyugan), Email(denmichigan123@gmail.com)
+ 
+✔️Figma to HTML / Sketch to HTML / PSD to HTML / etc.
+✔️Responsiveness
+✔️Landing Pages
+✔️HTML 5
+✔️CSS 3
+✔️Bootstrap
+✔️JavaScript
+✔️Jquery
+✔️React
+✔️Responsiveness
+
+I am RELIABLE, ORGANISED, COMMITTED, and COMFORTABLE working with deadlines and budgets.
+
+IF YOU NEED ANY OF THESE SKILLS AND STACKS TO BE PUT INTO ACTION, You can reach out to me on Twitter(Mitchyugan) or Gmail (denmichigan123@gmail.com), AND LET'S BEGIN!!!
 
 <!---
 MITCHYUGAN/MITCHYUGAN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
