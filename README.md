@@ -11,7 +11,7 @@ Languages and Tech stack
 
 ✔️CSS 3
 
-✔️Bootstrap
+✔️SCSS
 
 ✔️JavaScript
 
