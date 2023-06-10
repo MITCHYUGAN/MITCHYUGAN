@@ -2,23 +2,14 @@
  
 Languages and Tech stack
 ✔️Figma to HTML / Sketch to HTML / PSD to HTML / etc.
-
 ✔️Responsiveness
-
 ✔️Landing Pages
-
 ✔️HTML 5
-
 ✔️CSS 3
-
 ✔️SCSS
-
 ✔️JavaScript
-
 ✔️Jquery
-
 ✔️React
-
 ✔️Responsiveness
 
 I am RELIABLE, ORGANISED, COMMITTED, and COMFORTABLE working with deadlines and budgets.
