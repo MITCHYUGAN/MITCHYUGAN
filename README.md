@@ -2,7 +2,8 @@
  
 Languages and Tech stack
 ✔️Figma to HTML 
-  ✔️Responsiveness
+ 
+✔️Responsiveness
   ✔️Landing Pages
 ✔️HTML 5
 ✔️CSS 3
