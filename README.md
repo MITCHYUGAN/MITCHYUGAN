@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MITCHYUGAN, I create responsive web apps and websites,
+Hi, I’m Mitchyugan🙂, Frontend developer creating scalable and responsive web softwares. Passionate about Web3, Blockchain development and smart contracts.
  
 Languages and Tech stack
 
