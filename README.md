@@ -4,10 +4,8 @@
 
 ## Hi There! 👋 
 
-[![Twitter Follow]([https://img.shields.io/twitter/follow/mitchyugan?color=1DA1F2&logo=twitter&style=for-the-badge](https://twitter.com/mitchyugan))](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fruyymon&screen_name=mitchyugan)
-
 [![Twitter Follow](https://img.shields.io/twitter/follow/mitchyugan?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fruyymon&screen_name=mitchyugan)
-[![Discord DM](https://img.shields.io/badge/Discord-Mitchyugan%232416-7289DA?logo=Discord&style=for-the-badge)](https://discordapp.com/users/1037862251496996965/)
+[![Discord DM](https://img.shields.io/badge/Discord-Mitchyugan%235675-7289DA?logo=Discord&style=for-the-badge)](https://discordapp.com/users/1037862251496996965/)
 ---
 
 <br>
