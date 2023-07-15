@@ -1,24 +1,3 @@
-
-
-I’m Mitchyugan, 
-Software engineer specializing in front-end development. Passionate about Web3, Blockchain development, and smart contracts.
- 
-# Languages and Tools:
-* HTML
-* CSS
-* Scss
-* Java-script
-* Jquery
-* React
-* NextJs
-
-# Connect with me
-<a href="https://twitter.com/mitchyugan">Twitter</a>
-<a href="https://www.linkedin.com/in/mitchyugan">Linkend</a>
-
-
-
-
 <a href="https://gifer.com/en/Dtf">
   <img align="right" src="https://media0.giphy.com/media/LOnt6uqjD9OexmQJRB/giphy.gif" width=25% height=20% />
 </a>
@@ -26,7 +5,9 @@ Software engineer specializing in front-end development. Passionate about Web3, 
 ## Hi There! 👋 
 
 [![Twitter Follow]([https://img.shields.io/twitter/follow/mitchyugan?color=1DA1F2&logo=twitter&style=for-the-badge](https://twitter.com/mitchyugan))](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fruyymon&screen_name=mitchyugan)
-[![Discord DM](https://img.shields.io/badge/Discord-Mitchyugan%232416-7289DA?logo=Discord&style=for-the-badge)](https://discordapp.com/users/405734752143015937/)
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/mitchyugan?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fruyymon&screen_name=mitchyugan)
+[![Discord DM](https://img.shields.io/badge/Discord-Mitchyugan%232416-7289DA?logo=Discord&style=for-the-badge)](https://discordapp.com/users/1037862251496996965/)
 ---
 
 <br>
