@@ -1,4 +1,14 @@
-## Hi There! 👋
+<div>
+  <div>
+  <h2 style="color: red;">Hi There! 👋</h2>
+ </div>
+ <div>
+  <img src="https://gifer.com/en/Dtf" />
+ </div>
+</div>
+
+
+# 
 
 I’m Mitchyugan, 
 Software engineer specializing in front-end development. Passionate about Web3, Blockchain development, and smart contracts.
