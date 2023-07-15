@@ -15,7 +15,7 @@
 </p>
 <br>
 
-> "*If you can't make it good, at least make it look good.*" - Bill Gates
+> "*You can never understand everything. But push yourself to understand the system*" - Ryan Dahl (Creator of Node JS)
 
 
 
