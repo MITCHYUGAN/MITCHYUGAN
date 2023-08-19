@@ -20,7 +20,8 @@
 
 
 <h3 align="center">Languages and Tools:</h3>
-<p align="center">
+<div display="flex">
+<p>
 <img alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img alt="CSS" width="26px" src="https://i.pinimg.com/originals/a3/2f/83/a32f83aa2c675058e4a05a0fd4da05eb.png" />
 <img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -32,6 +33,5 @@
 <img alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 </p>
 
-<br>
-
 <img align="right" alt="Mitchyugan Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitchyugan&layout=compact&theme=vue&show_icons=true&hide_border=true" />
+</div>
