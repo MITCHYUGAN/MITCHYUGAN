@@ -19,9 +19,10 @@
 
 
 
-<h3 align="center">Languages and Tools:</h3>
-<div display="flex">
+
+<div display="flex" align-items="center">
 <p>
+<h3 align="center">Languages and Tools:</h3>
 <img alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img alt="CSS" width="26px" src="https://i.pinimg.com/originals/a3/2f/83/a32f83aa2c675058e4a05a0fd4da05eb.png" />
 <img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
