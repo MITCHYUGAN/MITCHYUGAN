@@ -34,7 +34,4 @@
 
 <br>
 
-<img align="left" alt="Ruy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mitchyugan&theme=vue&show_icons=true&hide_border=true" />
-<img align="right" alt="Ruy's Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitchyugan&layout=compact&theme=vue&show_icons=true&hide_border=true" />
-
-
+<img align="left" alt="Mitchyugan Github Stats" src="https://github-readme-stats.vercel.app/api?username=mitchyugan&theme=vue&show_icons=true&hide_border=true" />
